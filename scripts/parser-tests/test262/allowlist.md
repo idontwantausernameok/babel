@@ -125,6 +125,9 @@
 - [language/expressions/dynamic-import/syntax/invalid/top-level-no-new-call-expression-prop-access.js(default)](../../../build/test262/language/expressions/dynamic-import/syntax/invalid/top-level-no-new-call-expression-prop-access.js)
 - [language/expressions/dynamic-import/syntax/invalid/top-level-no-new-call-expression-prop-access.js(strict mode)](../../../build/test262/language/expressions/dynamic-import/syntax/invalid/top-level-no-new-call-expression-prop-access.js)
 
-## 0 valid programs produced a parsing error
+## 4 valid programs produced a parsing error
 
-
+- [language/statements/class/elements/arrow-body-arguments-label.js(default)](../../../build/test262/language/statements/class/elements/arrow-body-arguments-label.js)
+- [language/statements/class/elements/arrow-body-arguments-label.js(strict mode)](../../../build/test262/language/statements/class/elements/arrow-body-arguments-label.js)
+- [language/statements/class/static-init-arguments-label.js(default)](../../../build/test262/language/statements/class/static-init-arguments-label.js)
+- [language/statements/class/static-init-arguments-label.js(strict mode)](../../../build/test262/language/statements/class/static-init-arguments-label.js)
